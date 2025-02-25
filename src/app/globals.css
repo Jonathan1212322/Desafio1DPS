@@ -1,0 +1,12 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+/* globals.css o styles.css */
+.asientos-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.asiento {
+  margin: 5px;
+}
